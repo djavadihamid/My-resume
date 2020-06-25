@@ -3085,3 +3085,8 @@ h6 {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+
+/* custom css */
+.projects_text>p{
+  color:#555;
+}
