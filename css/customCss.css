@@ -1,3 +1,15 @@
 .link_icons{
     font-size:50px !important;
 }
+
+.jobDetail>div>span{
+    margin-left: 30px;
+}
+
+.JobDescription>div>h4{
+    display: inline;
+}
+
+.single-gallery-image{
+    border-radius: 20px;
+}
