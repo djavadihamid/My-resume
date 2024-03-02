@@ -34,6 +34,10 @@
 }
 
 @media (max-width:991px){
+
+	#my-name{
+		line-height: 130px;
+	}
 	/* Main Menu Area css
 	============================================================================================ */
     .navbar-toggler {
